@@ -1,6 +1,6 @@
 # English-E-portfolio
 This is my e-portfolio for English class. 
-## GOAL
+## Goal
 My goal is to improve speaking skills to be able to fluently talk to others on multiple subjects, using advanced vocabulary.
 ## When?
 I am expecting significant improvement by the end of this English class in January 2027.
